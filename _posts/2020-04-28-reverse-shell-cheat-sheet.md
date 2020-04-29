@@ -16,8 +16,6 @@ tags:
 
 ![](/assets/images/rev-shell-cheat-sheet/rev-shell-001.png)
 
-![TEST](/assets/images/rev-shell-cheat-sheet/rev-shell-001.png)
-
 ## References
 Pentestmonkey
 - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
