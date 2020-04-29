@@ -39,12 +39,12 @@ date: 2019-02-15
       <li>
         <a href="mailto:smith.itpro@gmail.com">
           <meta itemprop="email" content="smith.itpro@gmail.com" />
-          <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          <i class="fas fa-fw fa-envelope-square" aria-hidden="false"></i> Email
         </a>
       </li>
        <li>
         <a href="https://keybase.io/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
-          <i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase
+          <i class="fas fa-fw fa-key" aria-hidden="false"></i> Keybase
         </a>
       </li>
 
