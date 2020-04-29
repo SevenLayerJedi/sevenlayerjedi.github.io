@@ -5,12 +5,6 @@ date: 2019-02-15
 ---
 
 
-    <div class="author__avatar__centered">
-      <img src="/assets/images/avatar.png" alt="SevenLayerJedi" itemprop="image" />
-    </div>
-
-
-
 
 <div id="feed-meeee">
   <br />
