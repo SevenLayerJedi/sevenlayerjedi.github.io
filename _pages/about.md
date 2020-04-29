@@ -5,7 +5,7 @@ date: 2019-02-15
 ---
 
 <html class="js" lang="en">
-<head>
+ <head>
 	<meta charset="utf-8">
 	<title>About SevenLayerJedi | Pentester</title>
 	<meta property="og:title" content="Pentester">
