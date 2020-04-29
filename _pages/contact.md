@@ -25,7 +25,7 @@ date: 2019-02-15
 	<!-- For all browsers -->
 	<link rel="stylesheet" type="text/css" href="http://www.SevenLayerJedi.com/wp-content/themes/dannaway/style.css">
 
-  <script src="http://www.SevenLayerJedi.com/wp-content/themes/dannaway/js/modernizr-2.5.3-min.js"></script>
+  <script src="http://www.SevenLayerJedi.com/assets/js/modernizr-2.5.3-min.js"></script>
 	<link rel="shortcut icon" href="/favicon.ico">
 	<meta http-equiv="cleartype" content="on">
 
@@ -89,14 +89,7 @@ img.emoji {
 
 <!-- Include SevenLayerJedi like button -->
 
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.SevenLayerJedi.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=227683463924663";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'SevenLayerJedi-jssdk'));
-</script>
+
 
 	  
 
@@ -225,12 +218,9 @@ img.emoji {
 
 
 
-<script type="text/javascript" src="http://www.SevenLayerJedi.com/wp-includes/js/wp-embed.min.js?ver=5.3.2"></script>
-
-
-<script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script> 
-<script src="http://www.SevenLayerJedi.com/wp-content/themes/dannaway/js/clipboard.js-master/dist/clipboard.min.js"></script>
-<script src="http://www.SevenLayerJedi.com/wp-content/themes/dannaway/js/script.js"></script>
+<script>window.jQuery || document.write('<script src="http://www.SevenLayerJedi.com/assets/js/jquery-1.7.2.min.js"><\/script>')</script> 
+<script src="http://www.SevenLayerJedi.com/assets/js/clipboard.min.js"></script>
+<script src="http://www.SevenLayerJedi.com/assets/js/script.js"></script>
 <script type="text/javascript">
 <!--
 
