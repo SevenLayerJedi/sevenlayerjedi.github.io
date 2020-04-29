@@ -15,7 +15,7 @@ date: 2019-02-15
 
 
 
-<div id="wtf" margin="0 auto";>
+<div id="wtf">
   <br />
   <p align="center">
       <h3 class="author__name" itemprop="name" style="text-align: center;">SevenLayerJedi</h3>
@@ -65,11 +65,6 @@ date: 2019-02-15
     </a>
   </p>
 </div>
-
-
-
-
-
 
 
 
