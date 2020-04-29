@@ -27,18 +27,19 @@ date: 2019-02-15
 </div>
 
 
+
+
+
 <div id="feed-meeee">
   <br />
   <p align="center">
     <a style="display: inline-block;" href="https://paypal.me/kjs303">
-        <div>
           <a class="donate-with-crypto"
              href="https://commerce.coinbase.com/checkout/6da189f179bc31">
             <span>Donate with Crypto</span>
           </a>
           <script src="https://commerce.coinbase.com/v1/checkout.js">
           </script>
-        </div>
 
     </a>
   </p>
