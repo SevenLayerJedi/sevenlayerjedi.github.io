@@ -115,22 +115,22 @@ img.emoji {
 			<div id="snaps" class="row align-c snaps clearfix" style="visibility: visible; opacity: 1;">
 
 					<a id="snaps-1" target="_blank" href="https://www.SevenLayerJedi.com/" style="visibility: visible; top: 0px; opacity: 1;">
-						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/burger.png" alt="my desk">
+						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/pirate-face.png" alt="my desk">
 					</a>
 					<a id="snaps-2" target="_blank" href="https://www.SevenLayerJedi.com/" style="visibility: visible; top: 0px; opacity: 1;">
-						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/burger.png" alt="me in my shades">
+						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/pirate-face.png" alt="me in my shades">
 					</a>
 					<a id="snaps-3" target="_blank" href="https://www.SevenLayerJedi.com/" style="visibility: visible; top: 0px; opacity: 1;">
-						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/burger.png" alt="my star wars mug">
+						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/pirate-face.png" alt="my star wars mug">
 					</a>
 					<a id="snaps-4" target="_blank" href="https://www.SevenLayerJedi.com/" style="visibility: visible; top: 0px; opacity: 1;">
-						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/burger.png" alt="nerf gun wars">
+						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/pirate-face.png" alt="nerf gun wars">
 					</a>
 					<a id="snaps-5" target="_blank" href="https://www.SevenLayerJedi.com/" style="visibility: visible; top: 0px; opacity: 1;">
-						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/burger.png" alt="my macbook air">
+						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/pirate-face.png" alt="my macbook air">
 					</a>
 					<a id="snaps-6" target="_blank" href="https://www.SevenLayerJedi.com/" style="visibility: visible; top: 0px; opacity: 1;">
-						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/burger.png" alt="i love hamburgers">
+						<img class="preload" src="http://www.SevenLayerJedi.com/assets/images/pirate-face.png" alt="i love hamburgers">
 					</a>
 	
 			</div>
