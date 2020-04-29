@@ -5,7 +5,7 @@ excerpt: "List of reverse shell commands."
 date: 2020-04-28
 classes: wide
 header:
-  teaser: /assets/imagesrev-shell-cheat-sheetrev-shell-001.png
+  teaser: /assets/imagesrev-shell-cheat-sheet/rev-shell-001.png
   teaser_home_page: true
   icon: /assets/images/hacker-vector-6.png
 categories:
@@ -14,7 +14,7 @@ tags:
   - reverse shell
 ---
 
-![](/assets/images/rev-shell-cheat-sheetrev-shell-001.png)
+![](/assets/images/rev-shell-cheat-sheet/rev-shell-001.png)
 
 ## References
 Pentestmonkey
