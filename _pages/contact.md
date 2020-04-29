@@ -23,7 +23,7 @@ date: 2019-02-15
 
 
 	<!-- For all browsers -->
-	<link rel="stylesheet" type="text/css" href="http://www.SevenLayerJedi.com/wp-content/themes/dannaway/style.css">
+	<link rel="stylesheet" type="text/css" href="http://www.SevenLayerJedi.com/assets/css/style.css">
 
   <script src="http://www.SevenLayerJedi.com/assets/js/modernizr-2.5.3-min.js"></script>
 	<link rel="shortcut icon" href="/favicon.ico">
@@ -71,7 +71,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel="stylesheet" id="wp-block-library-css" href="http://www.SevenLayerJedi.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2" type="text/css" media="all">
+	<link rel="stylesheet" id="wp-block-library-css" href="http://www.SevenLayerJedi.com/assets/css/style.min.css?ver=5.3.2" type="text/css" media="all">
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js?ver=5.3.2"></script>
 <link rel="https://api.w.org/" href="http://www.SevenLayerJedi.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.SevenLayerJedi.com/xmlrpc.php?rsd">
@@ -164,7 +164,7 @@ img.emoji {
 							</ul>	
 						</div>
 
-						<img id="img-0" class="preload major" src="http://www.SevenLayerJedi.com/wp-content/themes/dannaway/images/pie-chart.png" alt="part UI designer, part Front End Developer" style="visibility: visible; top: 0px; opacity: 1;">
+						<img id="img-0" class="preload major" src="http://www.SevenLayerJedi.com/assets/images/pie-chart.png" alt="part UI designer, part Front End Developer" style="visibility: visible; top: 0px; opacity: 1;">
 					
 					</div>
 				</div>
