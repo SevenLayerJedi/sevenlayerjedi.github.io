@@ -13,6 +13,8 @@ date: 2019-02-15
   </p>
 </div>
 
+
+
 <div id="feed-meeee">
   <br />
   <p align="center">
@@ -23,10 +25,13 @@ date: 2019-02-15
   </p>
 </div>
 
+
+
+
 <div id="feed-meeee">
   <br />
   <p align="center">
-
+  <a class="author__urls-wrapper">
   <button class="btn btn--inverse">Follow</button>
   <ul class="author__urls social-icons">
     
@@ -56,27 +61,15 @@ date: 2019-02-15
           <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
         </a>
       </li>
-  </ul>
-  </p>
-</div>
-
-<div id="feed-meeee">
-  <br />
-  <p align="center">
-    <a class="author__avatar">
-      <img src="/assets/images/avatar.png" alt="SevenLayerJedi" itemprop="image" />
+    </ul>
     </a>
   </p>
 </div>
 
-<div id="feed-meeee">
-  <br />
-  <p align="center">
-    <a class="author__avatar">
-      <img src="/assets/images/avatar.png" alt="SevenLayerJedi" itemprop="image" />
-    </a>
-  </p>
-</div>
+
+
+
+
 
 
 
