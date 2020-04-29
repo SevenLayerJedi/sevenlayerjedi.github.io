@@ -50,7 +50,7 @@ date: 2019-02-15
 <meta name="twitter:title" content="About SevenLayerJedi | Pentester">
 <meta name="twitter:site" content="@SevenLayerJedi">
 <meta name="twitter:creator" content="@SevenLayerJedi">
-<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://www.SevenLayerJedi.com/#","url":"http://www.SevenLayerJedi.com/","name":"SevenLayerJedi","inLanguage":"en-US","description":"UI/UX Designer &amp; Front End Developer","publisher":{"@id":"http://www.SevenLayerJedi.com/#/schema/person/"},"potentialAction":{"@type":"SearchAction","target":"http://www.SevenLayerJedi.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://www.SevenLayerJedi.com/about#webpage","url":"http://www.SevenLayerJedi.com/about","name":"About SevenLayerJedi | UI/UX Designer &amp; Front End Developer","isPartOf":{"@id":"http://www.SevenLayerJedi.com/#website"},"inLanguage":"en-US","datePublished":"2012-09-26T07:31:29+00:00","dateModified":"2014-12-01T03:58:25+00:00","description":"I'm a UI/UX Designer and Front End Developer from Sydney, Australia."}]}</script>
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://www.SevenLayerJedi.com/#","url":"http://www.SevenLayerJedi.com/","name":"SevenLayerJedi","inLanguage":"en-US","description":"UI/UX Designer &amp;Pentester","publisher":{"@id":"http://www.SevenLayerJedi.com/#/schema/person/"},"potentialAction":{"@type":"SearchAction","target":"http://www.SevenLayerJedi.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://www.SevenLayerJedi.com/about#webpage","url":"http://www.SevenLayerJedi.com/about","name":"About SevenLayerJedi | UI/UX Designer &amp;Pentester","isPartOf":{"@id":"http://www.SevenLayerJedi.com/#website"},"inLanguage":"en-US","datePublished":"2012-09-26T07:31:29+00:00","dateModified":"2014-12-01T03:58:25+00:00","description":"I'm a UI/UX Designer andPentester from Sydney, Australia."}]}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//ajax.googleapis.com">
@@ -109,7 +109,7 @@ img.emoji {
 
 				</div>
 				<div id="img-main" class="col-7 align-c" style="visibility: visible; left: 0%; opacity: 1;">
-					<img class="major preload" src="http://www.SevenLayerJedi.com/assets/images/about-adham-dannaway.jpg" alt="SevenLayerJedi Pentester">
+					<img class="major preload" src="http://www.SevenLayerJedi.com/assets/images/pirate-face.png" alt="SevenLayerJedi Pentester">
 				</div>
 			</div>
 			<div id="snaps" class="row align-c snaps clearfix" style="visibility: visible; opacity: 1;">
@@ -145,26 +145,26 @@ img.emoji {
 						<div class="designer">
 							<h2>Part Designer</h2>
 							<ul class="ul">
-								<li>UX design</li>
-								<li>UI design</li>
-								<li>Interaction design</li>
-								<li>Research</li>
-								<li>Making it 'pop'</li>
+								<li>Pentester</li>
+								<li>Pentester</li>
+								<li>Pentester</li>
+								<li>Pentester</li>
+								<li>Pentester'pop'</li>
 							</ul>
 						</div>
 
 						<div class="coder">
 							<h2>Part Coder</h2>
 							<ul class="ul">
-								<li>Front-end development</li>
-								<li>HTML / CSS</li>
-								<li>JavaScript</li>
-								<li>Eating pizza</li>
-								<li>Swearing at computer</li>
+								<li>Pentester</li>
+								<li>Pentester</li>
+								<li>Pentester</li>
+								<li>Pentester</li>
+								<li>Pentester</li>
 							</ul>	
 						</div>
 
-						<img id="img-0" class="preload major" src="http://www.SevenLayerJedi.com/assets/images/pie-chart.png" alt="part UI designer, part Front End Developer" style="visibility: visible; top: 0px; opacity: 1;">
+						<img id="img-0" class="preload major" src="http://www.SevenLayerJedi.com/assets/images/pie-chart.png" alt="part UI designer, part Front End Pentester" style="visibility: visible; top: 0px; opacity: 1;">
 					
 					</div>
 				</div>
