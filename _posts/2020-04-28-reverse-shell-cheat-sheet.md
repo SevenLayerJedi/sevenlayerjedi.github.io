@@ -1,24 +1,24 @@
 ---
-layout single
-title Reverse Shell Cheat Sheet
-excerpt List of reverse shell commands
-date 2020-04-28
-classes wide
-header
-  teaser assetsimagesrev-shell-cheat-sheetrev-shell-001.png
-  teaser_home_page true
-  icon assetsimageshacker-vector-6.png
-categories
+layout: single
+title: Reverse Shell Cheat Sheet
+excerpt: "List of reverse shell commands."
+date: 2020-04-28
+classes: wide
+header:
+  teaser: /assets/imagesrev-shell-cheat-sheetrev-shell-001.png
+  teaser_home_page: true
+  icon: /assets/images/hacker-vector-6.png
+categories:
   - cheat sheet
-tags
+tags:
   - reverse shell
 ---
 
-![](assetsimagesrev-shell-cheat-sheetrev-shell-001.png)
+![](/assets/images/rev-shell-cheat-sheetrev-shell-001.png)
 
 ## References
 Pentestmonkey
-- httppentestmonkey.netcheat-sheetshellsreverse-shell-cheat-sheet
+- http://pentestmonkey.netcheat-sheetshellsreverse-shell-cheat-sheet
 
 ## Bash
 
@@ -75,16 +75,4 @@ p.waitFor()
 ```
 xterm -display 10.0.0.11
 Xnest 1
-```
-
-## PERL
-
-```
-
-```
-
-## PERL
-
-```
-
 ```
