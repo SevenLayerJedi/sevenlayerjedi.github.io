@@ -25,8 +25,8 @@ date: 2019-02-15
 	<!-- For all browsers -->
 	<link rel="stylesheet" type="text/css" href="http://www.SevenLayerJedi.com/wp-content/themes/dannaway/style.css">
 
-  <script src="http://www.SevenLayerJedi.com/wp-content/themes/dannaway/js/modernizr-2.5.3-min.js"></script>
-	<link rel="shortcut icon" href="/favicon.ico">
+  <script src="http://www.SevenLayerJedi.com/assets/js/modernizr-2.5.3-min.js"></script>
+	<link rel="shortcut icon" href="http://www.SevenLayerJedi.com/assets/images/favicon.ico">
 	<meta http-equiv="cleartype" content="on">
 
 	<script type="text/javascript">
