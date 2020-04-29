@@ -28,7 +28,6 @@ date: 2019-02-15
 
 <div id="feed-meeee">
   <p align="center">
-  <a class="author__urls-wrapper">
   <button class="btn btn--inverse">Follow</button>
   <ul class="author__urls social-icons" style="text-align: center;">
     
@@ -59,7 +58,6 @@ date: 2019-02-15
         </a>
       </li>
     </ul>
-    </a>
   </p>
 </div>
 
