@@ -4,7 +4,7 @@ permalink: /contact/
 date: 2019-02-15
 ---
 
-{% include footer.html %}
+{% include author-profile.html %}
 
 <div id="feed-meeee">
   <br/>
