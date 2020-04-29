@@ -28,38 +28,33 @@ date: 2019-02-15
 
 <div id="feed-meeee">
   <p align="center">
-  <a class="author__urls-wrapper">
-  <button class="btn btn--inverse">Follow</button>
   <ul class="author__urls social-icons" style="text-align: center;">
-    
-      <li itemprop="homeLocation" itemscope="" itemtype="https://schema.org/Place">
-        <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">United States</span>
-      </li>
 
       <li>
         <a href="mailto:smith.itpro@gmail.com">
           <meta itemprop="email" content="smith.itpro@gmail.com" />
-          <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email: smith.itpro@gmail.com
         </a>
       </li>
+      
        <li>
         <a href="https://keybase.io/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
-          <i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase
+          <i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase: https://keybase.io/sevenlayerjedi
         </a>
       </li>
 
       <li>
         <a href="https://twitter.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
-          <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter: https://twitter.com/sevenlayerjedi
         </a>
       </li>
       <li>
         <a href="https://github.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
-          <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+          <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub: https://github.com/sevenlayerjedi
         </a>
       </li>
+      
     </ul>
-    </a>
   </p>
 </div>
 
