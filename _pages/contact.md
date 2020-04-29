@@ -15,11 +15,11 @@ date: 2019-02-15
 
 
 
-<div id="feed-meeee">
+<div id="wtf" margin="0 auto";>
   <br />
   <p align="center">
-      <h3 class="author__name" itemprop="name">SevenLayerJedi</h3>
-      <p class="author__bio" itemprop="description">
+      <h3 class="author__name" itemprop="name" style="text-align: center;">SevenLayerJedi</h3>
+      <p class="author__bio" itemprop="description" style="text-align: center;">
         Pentester
       </p>
   </p>
@@ -33,7 +33,7 @@ date: 2019-02-15
   <p align="center">
   <a class="author__urls-wrapper">
   <button class="btn btn--inverse">Follow</button>
-  <ul class="author__urls social-icons">
+  <ul class="author__urls social-icons" style="text-align: center;">
     
       <li itemprop="homeLocation" itemscope="" itemtype="https://schema.org/Place">
         <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">United States</span>
