@@ -28,6 +28,7 @@ date: 2019-02-15
 
 <div id="feed-meeee">
   <p align="center">
+  <a class="author__urls-wrapper">
   <button class="btn btn--inverse">Follow</button>
   <ul class="author__urls social-icons" style="text-align: center;">
     
@@ -38,12 +39,12 @@ date: 2019-02-15
       <li>
         <a href="mailto:smith.itpro@gmail.com">
           <meta itemprop="email" content="smith.itpro@gmail.com" />
-          <i class="fas fa-fw fa-envelope-square" aria-hidden="false"></i> Email
+          <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
         </a>
       </li>
        <li>
         <a href="https://keybase.io/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
-          <i class="fas fa-fw fa-key" aria-hidden="false"></i> Keybase
+          <i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase
         </a>
       </li>
 
@@ -58,6 +59,7 @@ date: 2019-02-15
         </a>
       </li>
     </ul>
+    </a>
   </p>
 </div>
 
