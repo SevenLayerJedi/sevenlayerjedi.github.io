@@ -18,7 +18,7 @@ tags:
 
 ## References
 Pentestmonkey
-- http://pentestmonkey.netcheat-sheetshellsreverse-shell-cheat-sheet
+- http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
 ## Bash
 
