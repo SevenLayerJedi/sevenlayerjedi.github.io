@@ -40,6 +40,12 @@ date: 2019-02-15
           </a>
           <script src="https://commerce.coinbase.com/v1/checkout.js">
           </script>
+          
+          <a class="author__avatar">
+            <img src="/assets/images/avatar.png" alt="SevenLayerJedi" itemprop="image" />
+          </a>
+
+
 
     </a>
   </p>
