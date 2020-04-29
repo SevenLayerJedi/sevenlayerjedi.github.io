@@ -13,6 +13,70 @@ date: 2019-02-15
   </p>
 </div>
 
+<div id="feed-meeee">
+  <br />
+  <p align="center">
+      <h3 class="author__name" itemprop="name">SevenLayerJedi</h3>
+      <p class="author__bio" itemprop="description">
+        Pentester
+      </p>
+  </p>
+</div>
+
+<div id="feed-meeee">
+  <br />
+  <p align="center">
+
+  <button class="btn btn--inverse">Follow</button>
+  <ul class="author__urls social-icons">
+    
+      <li itemprop="homeLocation" itemscope="" itemtype="https://schema.org/Place">
+        <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">United States</span>
+      </li>
+
+      <li>
+        <a href="mailto:smith.itpro@gmail.com">
+          <meta itemprop="email" content="smith.itpro@gmail.com" />
+          <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+        </a>
+      </li>
+       <li>
+        <a href="https://keybase.io/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase
+        </a>
+      </li>
+
+      <li>
+        <a href="https://twitter.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+        </a>
+      </li>
+  </ul>
+  </p>
+</div>
+
+<div id="feed-meeee">
+  <br />
+  <p align="center">
+    <a class="author__avatar">
+      <img src="/assets/images/avatar.png" alt="SevenLayerJedi" itemprop="image" />
+    </a>
+  </p>
+</div>
+
+<div id="feed-meeee">
+  <br />
+  <p align="center">
+    <a class="author__avatar">
+      <img src="/assets/images/avatar.png" alt="SevenLayerJedi" itemprop="image" />
+    </a>
+  </p>
+</div>
 
 
 
