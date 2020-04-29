@@ -5,7 +5,6 @@ date: 2019-02-15
 ---
 
 <div id="feed-meeee">
-  <br />
   <p align="center">
     <a class="author__avatar">
       <img src="/assets/images/avatar.png" alt="SevenLayerJedi" itemprop="image" />
@@ -16,7 +15,6 @@ date: 2019-02-15
 
 
 <div id="wtf">
-  <br />
   <p align="center">
       <h3 class="author__name" itemprop="name" style="text-align: center;">SevenLayerJedi</h3>
       <p class="author__bio" itemprop="description" style="text-align: center;">
@@ -29,7 +27,6 @@ date: 2019-02-15
 
 
 <div id="feed-meeee">
-  <br />
   <p align="center">
   <a class="author__urls-wrapper">
   <button class="btn btn--inverse">Follow</button>
