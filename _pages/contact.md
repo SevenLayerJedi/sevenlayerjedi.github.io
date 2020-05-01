@@ -22,7 +22,7 @@ date: 2019-02-15
     </a>
   </p>
   
-  <p align="center">
+  <p style="text-align: center; margin: auto;">
     <script src="https://www.hackthebox.eu/badge/84131"></script>
   </p>
   
@@ -34,32 +34,32 @@ date: 2019-02-15
   </p>
   
 
-      <a href="https://www.hackthebox.eu/home/users/profile/84131" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <a style="display: inline-block;" href="https://www.hackthebox.eu/home/users/profile/84131" itemprop="sameAs" rel="nofollow noopener noreferrer">
         <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> HTB Profile: https://www.hackthebox.eu/home/users/profile/84131
       </a>
 
-      <a href="https://www.hackthebox.eu/home/teams/profile/2634" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <a style="display: inline-block;" href="https://www.hackthebox.eu/home/teams/profile/2634" itemprop="sameAs" rel="nofollow noopener noreferrer">
         <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> HTB Group: https://www.hackthebox.eu/home/teams/profile/2634
       </a>
 
-      <a href="https://discord.com" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <a style="display: inline-block;" href="https://discord.com" itemprop="sameAs" rel="nofollow noopener noreferrer">
         <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> Discord: SevenLayerJedi#3227
       </a>
 
-      <a href="mailto:smith.itpro@gmail.com">
+      <a style="display: inline-block;" href="mailto:smith.itpro@gmail.com">
         <meta itemprop="email" content="smith.itpro@gmail.com" />
         <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email: smith.itpro@gmail.com
       </a>
 
-      <a href="https://keybase.io/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <a style="display: inline-block;" href="https://keybase.io/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
         <i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase: https://keybase.io/sevenlayerjedi
       </a>
 
-      <a href="https://twitter.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <a style="display: inline-block;" href="https://twitter.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
         <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter: https://twitter.com/sevenlayerjedi
       </a>
 
-      <a href="https://github.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <a style="display: inline-block;" href="https://github.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
         <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub: https://github.com/sevenlayerjedi
       </a>
 
