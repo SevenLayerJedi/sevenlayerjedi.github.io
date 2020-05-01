@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Control - Hack The Box
+title: Google Dork - Cheat Sheet
 excerpt: "A Google dork query is a search string that uses advanced search operators to find information that is not readily available on a website. Google dorking, also known as Google hacking, can return information that is difficult to locate through simple search queries.
 In this tutorial we will using Google to gather more sensitive information about target."
 date: 2020-04-29

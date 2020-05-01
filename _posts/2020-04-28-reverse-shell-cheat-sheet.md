@@ -7,7 +7,7 @@ classes: wide
 header:
   teaser: /assets/images/rev-shell-cheat-sheet/rev-shell-001.png
   teaser_home_page: true
-  icon: /assets/images/hacker-vector-6.png
+  icon: /assets/images/thumbs-up-icon.png
 categories:
   - cheat sheet
 tags:
