@@ -6,10 +6,10 @@ date: 2019-02-15
 
 <style>
   .container {
-      width: 80%;
+      width: 50%;
       margin: 0 auto;
       padding: 20px;
-      background: #f0e68c;
+      background: transparent;
   }
 </style>
 
@@ -18,6 +18,21 @@ date: 2019-02-15
 <div class="container">
     <h1>This is a heading</h1>
     <p>This is a paragraph.</p>
+    
+      <p align="center">
+    <a class="author__avatar">
+      <img src="/assets/images/avatar.png" alt="SevenLayerJedi" itemprop="image" />
+    </a>
+  </p>
+  
+    <p align="center">
+      <h3 class="author__name" itemprop="name" style="text-align: center;">SevenLayerJedi</h3>
+      <p class="author__bio" itemprop="description" style="text-align: center;">
+        Pentester
+      </p>
+  </p>
+  
+  
 </div>
 
   
