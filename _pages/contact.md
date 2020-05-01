@@ -4,6 +4,24 @@ permalink: /contact/
 date: 2019-02-15
 ---
 
+<style>
+  .container {
+      width: 80%;
+      margin: 0 auto;
+      padding: 20px;
+      background: #f0e68c;
+  }
+</style>
+
+
+
+<div class="container">
+    <h1>This is a heading</h1>
+    <p>This is a paragraph.</p>
+</div>
+
+  
+
 
 <div id="feed-meeee">
   <p align="center">
@@ -13,7 +31,7 @@ date: 2019-02-15
   </p>
 </div>
 
-<div style="width:1024px; margin:auto;">
+<div style="width:1920px; margin:auto;">
     <script src="https://www.hackthebox.eu/badge/84131"></script>
 </div>
 
