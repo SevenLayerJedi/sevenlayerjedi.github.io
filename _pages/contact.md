@@ -13,6 +13,9 @@ date: 2019-02-15
   </p>
 </div>
 
+<div style="width:1024px; margin:auto;">
+    <script src="https://www.hackthebox.eu/badge/84131"></script>
+</div>
 
 
 <div id="wtf">
@@ -29,12 +32,7 @@ date: 2019-02-15
 <div id="About-Meeee">
   <p align="center">
     <ul class="social-icons" style="text-align: center;">
-      <li>
-        <a style="display: inline-block;" href="https://www.hackthebox.eu/home/users/profile/84131">
-          <script src="https://www.hackthebox.eu/badge/84131"></script>
-        </a>
-      </li>
-
+    
        <li>
         <a href="https://www.hackthebox.eu/home/users/profile/84131" itemprop="sameAs" rel="nofollow noopener noreferrer">
           <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> HTB Profile: https://www.hackthebox.eu/home/users/profile/84131
