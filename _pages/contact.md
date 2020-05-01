@@ -6,7 +6,7 @@ date: 2019-02-15
 
 <style>
   .container {
-      width: 50%;
+      width: 90%;
       margin: 0 auto;
       padding: 20px;
       background: transparent;
@@ -16,19 +16,19 @@ date: 2019-02-15
 
 
 <div class="container">
-  <p align="center">
+  <p align="left">
     <a class="author__avatar">
       <img src="/assets/images/avatar.png" alt="SevenLayerJedi" itemprop="image" />
     </a>
   </p>
   
-  <p style="text-align: center; margin: auto;">
+  <p style="text-align: left; margin: auto;">
     <script src="https://www.hackthebox.eu/badge/84131"></script>
   </p>
   
-  <p align="center">
-    <h3 class="author__name" itemprop="name" style="text-align: center;">SevenLayerJedi</h3>
-    <p class="author__bio" itemprop="description" style="text-align: center;">
+  <p align="left">
+    <h3 class="author__name" itemprop="name" style="text-align: left;">SevenLayerJedi</h3>
+    <p class="author__bio" itemprop="description" style="text-align: left;">
       Pentester
     </p>
   </p>
@@ -68,7 +68,7 @@ date: 2019-02-15
 
 <div>
   <br />
-  <p align="center">
+  <p align="left">
     <a style="display: inline-block;" href="https://paypal.me/kjs303">
       <img height="40" src="https://camo.githubusercontent.com/0e9e5cac101f7093336b4589c380ab5dcfdcbab0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f74776f6c66736f6e2f70617970616c2d6769746875622d627574746f6e40312e302e302f646973742f627574746f6e2e737667" />
     </a>
