@@ -26,12 +26,11 @@ date: 2019-02-15
 
 
 
-
-<div id="feed-meeee">
+<div id="About-Meeee">
   <p align="center">
-  <ul class="social-icons" style="text-align: center;">
+    <ul class="social-icons" style="text-align: center;">
       <li>
-        <a href="https://www.hackthebox.eu/home/users/profile/84131">
+        <a style="display: inline-block;" href="https://www.hackthebox.eu/home/users/profile/84131">
           <script src="https://www.hackthebox.eu/badge/84131"></script>
         </a>
       </li>
@@ -52,21 +51,14 @@ date: 2019-02-15
           <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> Discord: SevenLayerJedi#3227
         </a>
       </li>
-    </ul>
-  </p>
-</div>
-
-
-<div id="feed-meeee">
-  <p align="center">
-  <ul class="social-icons" style="text-align: center;">
+  
       <li>
         <a href="mailto:smith.itpro@gmail.com">
           <meta itemprop="email" content="smith.itpro@gmail.com" />
           <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email: smith.itpro@gmail.com
         </a>
       </li>
-      ..1 mk0   1 1111111111111
+
        <li>
         <a href="https://keybase.io/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
           <i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase: https://keybase.io/sevenlayerjedi
