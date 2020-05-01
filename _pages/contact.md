@@ -6,7 +6,7 @@ date: 2019-02-15
 
 <style>
   .container {
-      width: 90%;
+      width: 95%;
       margin: 0 auto;
       padding: 20px;
       background: transparent;
@@ -23,7 +23,7 @@ date: 2019-02-15
   </p>
   
   <p style="text-align: left; margin: auto;">
-    <script src="https://www.hackthebox.eu/badge/84131"></script>
+    <script src="https://www.hackthebox.eu/badge/84131" height="200"></script>
   </p>
   
   <p align="left">
@@ -33,45 +33,54 @@ date: 2019-02-15
     </p>
   </p>
   
-
-      <a style="display: inline-block;" href="https://www.hackthebox.eu/home/users/profile/84131" itemprop="sameAs" rel="nofollow noopener noreferrer">
-        <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> HTB Profile: https://www.hackthebox.eu/home/users/profile/84131
-      </a>
-
-      <a style="display: inline-block;" href="https://www.hackthebox.eu/home/teams/profile/2634" itemprop="sameAs" rel="nofollow noopener noreferrer">
-        <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> HTB Group: https://www.hackthebox.eu/home/teams/profile/2634
-      </a>
-
-      <a style="display: inline-block;" href="https://discord.com" itemprop="sameAs" rel="nofollow noopener noreferrer">
-        <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> Discord: SevenLayerJedi#3227
-      </a>
-
-      <a style="display: inline-block;" href="mailto:smith.itpro@gmail.com">
-        <meta itemprop="email" content="smith.itpro@gmail.com" />
-        <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email: smith.itpro@gmail.com
-      </a>
-
-      <a style="display: inline-block;" href="https://keybase.io/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
-        <i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase: https://keybase.io/sevenlayerjedi
-      </a>
-
-      <a style="display: inline-block;" href="https://twitter.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
-        <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter: https://twitter.com/sevenlayerjedi
-      </a>
-
-      <a style="display: inline-block;" href="https://github.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
-        <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub: https://github.com/sevenlayerjedi
-      </a>
-
+  <p align="left">
+    <a style="display: inline-block;" href="https://www.hackthebox.eu/home/users/profile/84131" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> HTB Profile: https://www.hackthebox.eu/home/users/profile/84131
+    </a>
+  </p>
   
-</div>
-
-<div>
+  <p align="left">
+    <a style="display: inline-block;" href="https://www.hackthebox.eu/home/teams/profile/2634" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> HTB Group: https://www.hackthebox.eu/home/teams/profile/2634
+    </a>
+  </p>
+  
+  <p align="left">
+    <a style="display: inline-block;" href="https://discord.com" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="far fa-arrow-alt-circle-right" aria-hidden="true"></i> Discord: SevenLayerJedi#3227
+    </a>
+  </p>
+  
+  <p align="left">
+    <a style="display: inline-block;" href="mailto:smith.itpro@gmail.com">
+      <meta itemprop="email" content="smith.itpro@gmail.com" />
+      <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email: smith.itpro@gmail.com
+    </a>
+  </p>
+  
+  <p align="left">
+    <a style="display: inline-block;" href="https://keybase.io/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase: https://keybase.io/sevenlayerjedi
+    </a>
+  </p>
+  
+  <p align="left">
+    <a style="display: inline-block;" href="https://twitter.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter: https://twitter.com/sevenlayerjedi
+    </a>
+  </p>
+  
+  <p align="left">
+    <a style="display: inline-block;" href="https://github.com/sevenlayerjedi" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub: https://github.com/sevenlayerjedi
+    </a>
+  </p>
+  
   <br />
   <p align="left">
     <a style="display: inline-block;" href="https://paypal.me/kjs303">
       <img height="40" src="https://camo.githubusercontent.com/0e9e5cac101f7093336b4589c380ab5dcfdcbab0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f74776f6c66736f6e2f70617970616c2d6769746875622d627574746f6e40312e302e302f646973742f627574746f6e2e737667" />
     </a>
   </p>
+  
 </div>
-
